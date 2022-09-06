@@ -313,3 +313,5 @@ const fullHouseChecker = (array) => {
 
     return false
 }
+
+// BLOCKER: Odd failure on test case three, some unresolved bug in how the function checks chunks.
